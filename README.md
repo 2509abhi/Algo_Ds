@@ -8,6 +8,11 @@ Use this repo to study or review your knowledge and don't forget to star and col
 
 ## Contents:
 
+### Backtraking
+ - NQueen Problem
+ - Rat_ maze
+ - permulation_of_string
+ 
 ### Search Algorithms
  - Linear Search
  - binary search
